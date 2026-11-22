@@ -33,7 +33,7 @@ It can serve as a visual reference for small businesses interested in establishi
 
 ## 🚀 Live Demo
 
-[View Website](YOUR_VERCEL_DEPLOYMENT_URL)
+
 
 ## 📌 Disclaimer
 

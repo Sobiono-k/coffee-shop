@@ -1,14 +1,46 @@
-# Brew & Bloom Coffee — Vercel-ready
+# ☕ Coffee Shop Website — Business Mockup
 
-Responsive coffee shop website using plain HTML, CSS and JavaScript. No build step.
+A modern, responsive coffee shop website concept designed to demonstrate how a small coffee business can establish its online presence through an attractive and user-friendly website.
 
-## Deploy
-1. Unzip this project and upload the files to a GitHub repository.
-2. Import that repository in Vercel.
-3. Choose **Other** as framework. Leave build command blank and set output directory to `.` if prompted.
-4. Deploy.
+## 🌿 Project Overview
 
-## Customize
-Edit `script.js` to update Messenger, Viber, email, address and Google Maps location. Edit `index.html` for shop name, menu, prices, packages and hours. All sample prices and business details are placeholders; replace them before publishing.
+This project is a **coffee shop website mockup for business purposes**, showcasing a sample online presence for a coffee shop. It features a clean design, product presentation, and essential business information to demonstrate how customers can explore a coffee shop online.
 
-Images are hosted on Unsplash. The site and Google Maps embed require internet access.
+This is a sample concept and is not an official website of an operating coffee shop.
+
+## ✨ Features
+
+- Responsive homepage design
+- Coffee shop branding and visual presentation
+- Featured coffee and menu sections
+- Business information and contact details
+- Location and map integration
+- Mobile-friendly layout
+- Simple and user-friendly navigation
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Vercel (Deployment)
+
+## 🎯 Project Purpose
+
+The purpose of this project is to demonstrate front-end web development skills by creating a realistic coffee shop business website mockup.
+
+It can serve as a visual reference for small businesses interested in establishing an online presence.
+
+## 🚀 Live Demo
+
+[View Website](YOUR_VERCEL_DEPLOYMENT_URL)
+
+## 📌 Disclaimer
+
+This website is a demonstration project created for portfolio and educational purposes. Business names, menu items, prices, images, and contact information may be fictional or placeholders. It is not affiliated with an actual coffee shop unless otherwise stated.
+
+---
+
+**Designed & Developed by Mariel Rose Sobiono**
+
+*Front-End Web Development Portfolio Project*

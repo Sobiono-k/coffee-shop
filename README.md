@@ -32,7 +32,7 @@ The purpose of this project is to demonstrate front-end web development skills b
 It can serve as a visual reference for small businesses interested in establishing an online presence.
 
 ## 🚀 Live Demo
-
+[View Website](https://coffeeshops-website.vercel.app/)
 
 
 ## 📌 Disclaimer
